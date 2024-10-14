@@ -32,21 +32,18 @@ You can modify the elements and styles in the HTML and CSS files as per your req
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please open a Pull Request (PR) with your changes.
+Contributions are welcome! If you'd like to contribute to the project, please open a Pull Request (PR) with your changes. 
 
 To do this, follow these steps:
 
-1.Fork the repository.
-
-2.Create a new branch for your feature or bug fix.
-
-3.Make your changes and commit them with a clear message.
-
-4.Push your changes to your forked repository.
-
-5.Open a Pull Request to the main repository.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a clear message.
+4. Push your changes to your forked repository.
+5. Open a Pull Request to the main repository.
 
 We appreciate your contributions!
+
 
 
 ## Contact
