@@ -17,7 +17,6 @@ This project aims to create a simple contact form using HTML and CSS, featuring 
    ```bash
    git clone https://github.com/salah-alstre/ev-bmw.git
 
-
 2.Open the Form:
 
 Open the contact.html file in your browser to try out the form.
