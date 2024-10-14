@@ -25,6 +25,10 @@ Open the contact.html file in your browser to try out the form.
 
 You can modify the elements and styles in the HTML and CSS files as per your requirements.
 
+## Screenshots
+
+![Image](https://github.com/salah-alstre/ev-bmw/blob/main/src/assets/bmw-love.jpg)
+
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
