@@ -36,3 +36,8 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 ## License
 This project is licensed under the MIT License.
 
+## Contact
+If you have any questions or feedback, feel free to reach out:
+
+- Email: [email](mailto:error.salah59@gmail.com)
+- VC:    [ Salah Cv ](https://salahcv.site/)
