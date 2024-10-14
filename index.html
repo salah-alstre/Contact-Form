@@ -1,27 +1,28 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Form</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon"> <!-- إضافة favicon -->
 </head>
 <body>
     <div class="contact-container">
-        <form  action="https://api.web3forms.com/submit" method="POST" class="content-left">
+        <form action="https://api.web3forms.com/submit" method="POST" class="content-left">
             <div class="content-left-title">
                 <h2>Get in touch</h2>
                 <hr>
             </div>
             <input type="hidden" name="access_key" value="2c2f3a0a-abbe-4e0d-876a-66e1870e62a5">
             <input type="text" name="name" placeholder="Your Name" class="content-inputs" required>
-            <input type="text" name="email" placeholder="Your Email" class="content-inputs" required>
-            <textarea name="massage" placeholder="Your Message" class="content-inputs"required></textarea>
-            <button type="submit"> Submit <img src="assets/arrow_icon.png" alt=""></button>
+            <input type="email" name="email" placeholder="Your Email" class="content-inputs" required> <!-- تغيير نوع البريد الإلكتروني -->
+            <textarea name="message" placeholder="Your Message" class="content-inputs" required></textarea> <!-- تصحيح "massage" إلى "message" -->
+            <button type="submit">Submit <img src="assets/arrow_icon.png" alt=""></button>
         </form>
         <div class="content-right">
             <img src="assets/right_img.png" alt="">
         </div>
     </div>
-
 </body>
 </html>
